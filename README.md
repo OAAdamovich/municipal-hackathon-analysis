@@ -32,6 +32,9 @@ pip install -r requirements.txt
 
 # 3. Запустить анализ
 jupyter notebook analysis.ipynb
+
+``` 
+
 📊 Стек технологий
 
 Анализ данных: Pandas, NumPy
