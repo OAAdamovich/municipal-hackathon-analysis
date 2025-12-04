@@ -45,4 +45,3 @@ jupyter notebook analysis.ipynb
 📧 adamovich1986@gmail.com | GitHub
 
 Проект выполнен в рамках хакатона "Муниципальный код", 2025 год.
-📧 adamovich1986@gmail.com | 
