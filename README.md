@@ -21,7 +21,8 @@ text
 
 ## ⚙️ Быстрый старт
 
-```bash
+```
+bash
 # 1. Клонировать репозиторий
 git clone https://github.com/OAAdamovich/municipal-hackathon-analysis.git
 cd municipal-hackathon-analysis
