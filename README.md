@@ -11,6 +11,7 @@ markdown
 
 📁 Структура проекта
 
+text
 municipal-hackathon-analysis/
 ├── analysis.ipynb          # Основной код анализа
 ├── report.pdf              # Полный отчет (PDF)
@@ -18,7 +19,6 @@ municipal-hackathon-analysis/
 ├── requirements.txt        # Зависимости Python
 └── README.md               # Этот файл
 
-text
 
 ⚙️ Быстрый старт
 
