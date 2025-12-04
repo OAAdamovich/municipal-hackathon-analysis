@@ -10,12 +10,13 @@ markdown
 Регрессионный анализ объясняет 43% вариации безналичных платежей (R² = 0.434)
 
 📁 Структура проекта
-.
-├── analysis.ipynb # Основной код анализа
-├── report.pdf # Полный отчет (PDF)
-├── presentation.pptx # Презентация
-├── requirements.txt # Зависимости Python
-└── README.md # Этот файл
+
+municipal-hackathon-analysis/
+├── analysis.ipynb          # Основной код анализа
+├── report.pdf              # Полный отчет (PDF)
+├── presentation.pptx       # Презентация
+├── requirements.txt        # Зависимости Python
+└── README.md               # Этот файл
 
 text
 
