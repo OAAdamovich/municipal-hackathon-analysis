@@ -11,14 +11,14 @@ markdown
 
 📁 Структура проекта
 
-text
+``` 
 municipal-hackathon-analysis/
 ├── analysis.ipynb          # Основной код анализа
 ├── report.pdf              # Полный отчет (PDF)
 ├── presentation.pptx       # Презентация
 ├── requirements.txt        # Зависимости Python
 └── README.md               # Этот файл
-
+``` 
 
 ⚙️ Быстрый старт
 
